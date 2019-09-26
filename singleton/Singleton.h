@@ -1,6 +1,8 @@
 #ifndef __CSINGLETON_H__
 #define __CSINGLETON_H__
 
+#include <mutex>
+
 class CSingleton 
 {
 private:
